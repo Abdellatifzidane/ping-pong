@@ -11,7 +11,6 @@ var
     source = require('vinyl-source-stream'),
     buffer = require('gulp-buffer'),
     rename = require('gulp-rename'),
-    del = require('del'),
     rev = require('gulp-rev'),
     browserify = require('browserify'),
     watchify = require('watchify'),
